@@ -1,16 +1,20 @@
-# belajar_bloc
+# 📚 belajar_bloc
 
-A new Flutter project.
+> Sebuah proyek Flutter sederhana untuk mempelajari dan mengimplementasikan BLoC (Business Logic Component) Pattern.
 
-## Getting Started
+## 🚀 Tentang Proyek
 
-This project is a starting point for a Flutter application.
+`belajar_bloc` adalah proyek pembelajaran Flutter yang berfokus pada arsitektur **BLoC** untuk memisahkan logika bisnis dan tampilan UI. Cocok untuk pemula yang ingin memahami cara kerja `flutter_bloc`, `Cubit`, dan manajemen state secara terstruktur.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Implementasi **BLoC** & **Cubit**
+- Arsitektur Flutter yang bersih dan terstruktur
+- Contoh manajemen state (counter, form, dll)
+- Mudah dipahami dan dikembangkan lebih lanjut
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Teknologi yang Digunakan
+
+- [Flutter](https://flutter.dev/)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [Equatable](https://pub.dev/packages/equatable)
