@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337422546876",
+    "project_id": "belajarbloc-b9152",
+    "storage_bucket": "belajarbloc-b9152.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337422546876:android:4c07c6f24622a1be7c9db9",
+        "android_client_info": {
+          "package_name": "com.example.belajar_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoeRnQetwO_LDiMoYQ3Vd2XLSD2a0Wq2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
